@@ -40,4 +40,5 @@ done
 # edit "/home/"$(whoami)"/.bashrc"
 #
 #########################################################################
-installme openjdk-8-jdk openjdk-8-doc openjdk-8-demo openjdk-8-dbg openjdk-8-jre 
+#installme openjdk-8-jdk openjdk-8-doc openjdk-8-demo openjdk-8-dbg openjdk-8-jre 
+#firefox http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/luna/SR1/eclipse-jee-luna-SR1-linux-gtk.tar.gz&mirror_id=1090
